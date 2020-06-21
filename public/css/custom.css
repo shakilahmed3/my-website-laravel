@@ -1,0 +1,18 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand img{
+    width: 40px;
+}
+
+
+.parallax{
+    background-image: url('../images/projectImage/notebook-1280538_1280.jpg');
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
